@@ -233,3 +233,12 @@ body{
 .contents .img_section img{
 	width: 100%;
 }
+.contents .bottom_icons .left_icon{
+	display: flex;
+	padding: 10px 20px;
+}
+
+.contents .bottom_icons .left_icon> div{
+	margin-right: 10px;
+}
+
